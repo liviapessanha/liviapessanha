@@ -1,6 +1,9 @@
 ## Olá! Eu sou a Lívia Pessanha
 
+- 🤩 Apaixonada pelo desenvolvimento web
 - 😄 Estudando javascript, reactjs e tailwindCSS
+- 💼 Meu projeto pessoal mais recente https://pizzaria-whatsapp.vercel.app/
+
 
   <div>
     <a href="https://github.com/anuraghazra/convoychat">
