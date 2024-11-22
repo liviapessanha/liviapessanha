@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Lívia Pessanha
 
 - 🤩 Apaixonada pelo desenvolvimento web
-- 😄 Estudando javascript, reactjs e tailwindCSS
+- 🚀 Especializando-se em: React e seu ecossistema, com experiência em ferramentas como Next.js, Vite, Tailwind CSS e Styled Components.
+- 🎯 Sempre em busca de criar experiências web incríveis e funcionais.
 - 💼 Meu projeto pessoal mais recente https://pizzaria-whatsapp.vercel.app/
 
 
