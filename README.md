@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Lívia Pessanha
 
 - 🤩 Apaixonada pelo desenvolvimento web
-- 🚀 Especializando-se em: React e seu ecossistema, com experiência em ferramentas como Next.js, Vite, Tailwind CSS e Styled Components.
+- 🚀 Especializando-se em: React e seu ecossistema, com experiência em ferramentas como Next.js, Vite, Tailwind CSS.
 - 🎯 Sempre em busca de criar experiências web incríveis e funcionais.
 
 
